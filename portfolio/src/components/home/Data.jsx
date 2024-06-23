@@ -55,7 +55,7 @@ const Data = () => {
                 </svg>
             </h1>
             <h3 className="home__subtitle">Freshman @ IIIT Vadodara</h3>
-            <p className="home__description">My name is Abhijith Viju Priya Rani, and I am a driven and enthusiastic freshman at the
+            <p className="home__description">Hi there 🤗! My name is Abhijith Viju Priya Rani, and I am a driven and enthusiastic freshman at the
                 Indian Institute of Information Technology Vadodara (IIIT-V), with a spark for
                 technology and a hunger for practical experience.</p>
 
