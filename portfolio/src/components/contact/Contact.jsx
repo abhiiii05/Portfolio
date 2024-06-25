@@ -12,12 +12,13 @@ const Contact = () => {
 
         emailjs
             .sendForm(
-                'service_2nnwj6b',
+                'service_7qbrvzd',
                 'template_oo77ru4',
                 form.current,
                 {publicKey: 'MKvMRvK1kQHLuQBTB',}
             )
             e.target.reset()
+                
     };
     return(
         <section className="contact section">
