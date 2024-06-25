@@ -18,7 +18,7 @@ const Contact = () => {
                 {publicKey: 'MKvMRvK1kQHLuQBTB',}
             )
             e.target.reset()
-                
+
     };
     return(
         <section className="contact section">
